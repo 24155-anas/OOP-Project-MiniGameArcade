@@ -21,9 +21,6 @@ int main1() {
     return 0;
 }
 
-
-// Example usage in main.cpp:
-
 int main() {
     MiniGameArcade arcade;
     arcade.runArcade();
